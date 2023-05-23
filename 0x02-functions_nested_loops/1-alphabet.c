@@ -1,11 +1,9 @@
 #include "main.h"
-
-/** print_alphabet - print alphapetical numbers
+/**
+ * print_alphabet - print alphapetical numbers
  *
  * Return: void
- *
  */ 
-
 void print_alphabet(void)
 {
 char i;
