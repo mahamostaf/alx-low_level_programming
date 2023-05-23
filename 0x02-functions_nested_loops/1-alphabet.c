@@ -3,7 +3,7 @@
  * print_alphabet - print alphapetical numbers
  *
  * Return: void
- */ 
+ */
 void print_alphabet(void)
 {
 char i;
