@@ -3,18 +3,18 @@
 #include <ctype.h>
 
 /**
- * print_alphabet_x10 - print alphapetical characters 10 times
+ * islower - check if islower case or not
  *
- * Return: void
+ * Return: 0 or 1
  */
 int _islower(int c)
 {
-    if (islower(c))
-    {
-        return (1);
-    }
-    else
-    {
-        return (0);
-    }
+if (islower(c))
+{
+return (1);
+}
+else
+{
+return (0);
+}
 }
