@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 /**
- * _isalpha - check sign of number
+ * print_sign - check sign of number
  * @n: parameter to print_sign function
  * Return: 0 or 1
  */
