@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-#include <ctype.h>
+#include <stdlib.h>
 
 /**
  * _abs - check sign of number
