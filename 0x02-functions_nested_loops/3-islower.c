@@ -4,7 +4,7 @@
 
 /**
  * _islower - check if c is lowercase or not
- * c - check if c is lowercase or not
+ * 'c' - paramter to _islower function to check if it is lowercase or not
  * Return: 0 or 1
  */
 int _islower(int c)
