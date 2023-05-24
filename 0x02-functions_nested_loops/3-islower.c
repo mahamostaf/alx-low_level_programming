@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 /**
- * islower - check if islower case or not
+ * _islower - check if c is lowercase or not
  *
  * Return: 0 or 1
  */
