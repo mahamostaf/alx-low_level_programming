@@ -13,7 +13,7 @@ int i;
 char tmp, *tmp1, *tmp2;
 tmp1 = s;
 tmp2 = s + strlen(s) - 1;
-for (i = 0; i < int (strlen(s) - 1) / 2; i++)
+for (i = 0; i < (int)(strlen(s) - 1) / 2; i++)
 {
 tmp = *tmp1;
 *tmp1 = *tmp2;
