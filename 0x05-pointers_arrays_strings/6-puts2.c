@@ -20,4 +20,5 @@ printf("%c", str[i]);
 }
 tmp++;
 }
+printf("\n");
 }
