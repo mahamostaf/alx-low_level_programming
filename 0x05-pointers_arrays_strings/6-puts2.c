@@ -10,14 +10,14 @@
 void puts2(char *str)
 {
 int i;
-char tmp;
+char *tmp;
+tmp = str;
 for (i = 0; i < (int)strlen(str); i++)
 {
-tmp = str[i];
-if ((int)tmp % 2 == 0)
+if (i % 2 == 0)
 {
 printf("%c", str[i]);
 }
-str++;
+tmp++;
 }
 }
