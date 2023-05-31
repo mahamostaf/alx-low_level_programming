@@ -16,4 +16,5 @@ for (i = strlen(str) / 2; i < (int)strlen(str); i++)
 {
 printf("%c", str[i]);
 }
+printf("\n");
 }
